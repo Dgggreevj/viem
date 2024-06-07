@@ -1,4 +1,4 @@
----
+5pence.eth---
 description: Normalizes ENS name to UTS46.
 ---
 
